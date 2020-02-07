@@ -2,7 +2,9 @@
 
 ##                The API Notebook can create a client for an API when you specify the URL for the API&#39;s RAML spec. With that client you can send authenticated requests to the API and receive live data in return.
 
-- Here user need not to install any thing in his local we just needed to share the URL of the API in Developer Portal.
+- Here user need not to install any thing in his local we just needed to share the URL
+
+- URL of the API in Developer Portal.
 
 ## Creating a Notebook:
 
@@ -18,17 +20,21 @@
 
 ![Exchange](images/Picture2.png)
 
-- o to Exchange there you can see the API get published
+- Go to Exchange there you can see the API get published
 
  ![Publish-to-Exhange](images/Picture3.png)
 
+- •	Now open the published API and Click on Edit in the Top Right corner
+
+ ![API-Notebook](images/Picture4.png)
+
 - Now Click on API Notebook a snippet gets Generated
 
- ![API-Get-Published](images/Picture4.png)
+ ![API-Get-Published](images/Picture5.png)
 
 - Repeat the same by clicking on the API Notebook and Click on  Save Draft
 
- ![API-Notebook](images/Picture5.png)
+ ![API-Notebook](images/Picture13.png)
 
 - Now Click on Publish  so the API Notebook get created
 
@@ -56,8 +62,10 @@
 
 - If the API is with Client id Enforcement, we need to pass the client\_id and client\_secret as Headers as below.
 
- ![DesignCenterImage](images/Picture12.png)
+ ![DesignCenterImage](images/Picture11.png)
 
 - If you need to pass the Post method with Parameters
+
+![DesignCenterImage](images/Picture12.png)
 
  
